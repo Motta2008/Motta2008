@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy Motta2008
+# ¡Hola! 👋 Soy Michael Daniel Moreno Motta
 
 ¡Bienvenido(a) a mi perfil de GitHub!  
-Soy un **desarrollador web** apasionado por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras. Me especializo en el desarrollo front-end y disfruto trabajar en equipo para llevar ideas a la realidad.
+Soy un **Analista y desarrollador de software** me inspira mí superacion personal, mí aprendizaje constante y la creación de soluciones innovadoras que me hagna resaltar en la competencia. Me especializo en lenguajes de logica que me desafian, estoy en un proceso acompañado por Dios para mejorar en mí logica de programacion en lenguajes como Python y JS , asi que veras muchos repositorios míos a lo largo del año y el proximo con proyectos sencillos.
 
 ---
 
@@ -17,24 +17,10 @@ Soy un **desarrollador web** apasionado por la tecnología, el aprendizaje const
 
 ---
 
-## 📊 Dominio de lenguajes y frameworks
-
-**HTML**       [███████████████---------] 70%  
-**CSS**        [██████████--------------] 50%  
-**JavaScript** [█████████---------------] 80%  
-**Python**     [███---------------------] 10%  
-**React.js**   [███████████-------------] 2%  
-**Angular 17** [███---------------------] 1%  
-**Bootstrap**  [████████----------------] 40%  
-
-*(Porcentajes aproximados de experiencia y dominio personal)*
-
----
-
 ## 🌟 Proyectos destacados
 
 - [My First Anniversary](#)  
-Realice una web para mí novia, celebrando nuetro primer aniversario con nuestras fotos de nuestro año y canciones favoritas, tambien aprendi a usar API y integrarlas con explicacion de IA paso a paso para autommatizacion de email en forma de peticiones de uso exclusivo y diseño especial para mí novia
+Realice una web para mí novia, celebrando nuetro primer aniversario con nuestras fotos de nuestro año y canciones favoritas, tambien aprendi a usar API y integrarlas con explicacion de IA paso a paso para autommatizacion de email en forma de peticiones de uso exclusivo y diseño especial para mí novia, (lo elimine por un pequeño conflicto en el posteo por la base de datos que es FireBase y temas de privacidad en algunas funciones)
 
 ---
 
@@ -49,11 +35,11 @@ Realice una web para mí novia, celebrando nuetro primer aniversario con nuestra
 
 ## 📫 Contacto
 
-- ✉️ Email: tuemail@ejemplo.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 🌐 [Portafolio Web](https://tupagina.com)
+- ✉️ Email: michaelmotta2008@gmail.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/michael-m-motta-061ab9346/))
+- 🌐 Portafolio Web en curso :)
 
 ---
 
 🙌 ¡Gracias por visitar mi perfil!  
-Si quieres colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme.
+Jesucristo es nuestra guia en la tormenta, amén.
