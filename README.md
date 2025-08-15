@@ -36,7 +36,7 @@ Realice una web para mí novia, celebrando nuetro primer aniversario con nuestra
 ## 📫 Contacto
 
 - ✉️ Email: michaelmotta2008@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/michael-m-motta-061ab9346/))
+- 💼 https://www.linkedin.com/in/michael-m-motta-061ab9346/
 - 🌐 Portafolio Web en curso :)
 
 ---
