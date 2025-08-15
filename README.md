@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Michael Daniel Moreno Motta
 
 ¡Bienvenido(a) a mi perfil de GitHub!  
-Soy un **Analista y desarrollador de software** me inspira mí superacion personal, mí aprendizaje constante y la creación de soluciones innovadoras que me hagna resaltar en la competencia. Me especializo en lenguajes de logica que me desafian, estoy en un proceso acompañado por Dios para mejorar en mí logica de programacion en lenguajes como Python y JS , asi que veras muchos repositorios míos a lo largo del año y el proximo con proyectos sencillos.
+Soy **Analista y desarrollador de software** me inspira mí superacion personal, mí aprendizaje constante y la creación de soluciones innovadoras que me hagna resaltar en la competencia. Me especializo en lenguajes de logica que me desafian, estoy en un proceso acompañado por Dios para mejorar en mí logica de programacion en lenguajes como Python y JS , asi que veras muchos repositorios míos a lo largo del año y el proximo con proyectos sencillos.
 
 ---
 
