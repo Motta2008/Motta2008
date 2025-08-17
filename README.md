@@ -28,8 +28,8 @@ Realice una web para mí novia, celebrando nuetro primer aniversario con nuestra
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Motta2008&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motta2008&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Motta2008&show_icons=true&locale=es&layout=compact&langs_count=8&hide_progress=false&theme=merko)</p>
 
 ---
 
