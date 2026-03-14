@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Michael Daniel Moreno Motta
+# ¡Hola! Soy Michael Daniel Moreno Motta
 
 ¡Bienvenido(a) a mi perfil de GitHub!  
 Soy **Analista y desarrollador de software** me inspira mí superacion personal, mí aprendizaje constante y la creación de soluciones innovadoras que me hagna resaltar en la competencia. Me especializo en lenguajes de logica que me desafian, estoy en un proceso acompañado por Dios para mejorar en mí logica de programacion en lenguajes como Python y JS , asi que veras muchos repositorios míos a lo largo del año y el proximo con proyectos sencillos.
@@ -20,7 +20,7 @@ Soy **Analista y desarrollador de software** me inspira mí superacion personal,
 ## 🌟 Proyectos destacados
 
 - [My First Anniversary](#)  
-Realice una web para mí novia, celebrando nuetro primer aniversario con nuestras fotos de nuestro año y canciones favoritas, tambien aprendi a usar API y integrarlas con explicacion de IA paso a paso para autommatizacion de email en forma de peticiones de uso exclusivo y diseño especial para mí novia, (lo elimine por un pequeño conflicto en el posteo por la base de datos que es FireBase y temas de privacidad en algunas funciones)
+Realice una web para mí novia, celebrando nuetro primer aniversario con nuestras fotos de nuestro año y canciones favoritas, aprendi el uso y integración de API para autommatizacion de email en forma de peticiones de uso exclusivo y diseño especial para mí novia, (Tiene errores de privacidad por lo que no esta publico por el momento)
 
 ---
 
